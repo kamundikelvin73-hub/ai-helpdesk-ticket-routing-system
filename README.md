@@ -28,6 +28,3 @@ ai-helpdesk-ticket-routing-system-recruiter-ready/
 └── reports/
 ```
 
-## Disclaimer
-
-All support ticket data is synthetic and created for portfolio demonstration only.
