@@ -1,0 +1,6 @@
+ticket_id,subject,description,category,priority
+1,Password reset needed,I cannot access my account after enabling MFA,Account Access,High
+2,Zoom audio not working,My microphone does not work during lectures,Technical Support,Medium
+3,Invoice question,I was charged twice for the same subscription,Billing,Medium
+4,Laptop running slow,My laptop freezes during Teams meetings,Device Support,Medium
+5,Security alert,I received a suspicious email asking for my password,Security,High
